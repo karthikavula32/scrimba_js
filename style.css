@@ -3,6 +3,15 @@ body{
     text-align: center;
 }
 button{
-    border-radius: 4%;
+    border-radius: 20%;
     background-color: olivedrab;
+    padding: 10px;
+    display: block;
+    margin: auto;
+}
+p{
+    font-weight: bold;
+}
+#countershow{
+    font-size: xx-large;
 }
